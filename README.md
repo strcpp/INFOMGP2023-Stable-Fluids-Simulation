@@ -1,11 +1,10 @@
 | Smoke                               |  Temperature                       |
 | ----------------------------------- | ----------------------------------- |
-| ![demo 1](https://github.com/strcpp/INFOMGP2023-Stable-Fluids-Simulation/blob/main/demo/demo1.gif) | ![demo 2](https://github.com/strcpp/INFOMGP2023-Stable-Fluids-Simulation/blob/main/demo/demo2.gif)
- |
+| ![demo 1](https://github.com/strcpp/INFOMGP2023-Stable-Fluids-Simulation/blob/main/demo/demo1.gif) | ![demo 2](https://github.com/strcpp/INFOMGP2023-Stable-Fluids-Simulation/blob/main/demo/demo2.gif)|
 
 ## About
 
-Stable fluids simulation built for UU Game Physics, in rust, of course.
+Stable fluids simulation built for UU Game Physics, in Rust, of course.
 
 Based on [paper by Jos Stam](https://pages.cs.wisc.edu/~chaol/data/cs777/stam-stable_fluids.pdf)
 
