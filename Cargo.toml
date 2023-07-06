@@ -1,5 +1,5 @@
 [package]
-name = "Fluid Sim."
+name = "Stable-fluids"
 version = "0.1.0"
 edition = "2021"
 
